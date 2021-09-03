@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ... onboarding
+- 🌱 I’m currently learning ...  too many things to list
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ... skiing, or photography
+- 📫 How to reach me: ... here
+- ⚡ Fun fact: ... its a sunny day
+
+
 <!--
 **martin-bennett/martin-bennett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
